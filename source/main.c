@@ -8,26 +8,31 @@ int main(int argc, char **argv)
     gfxInitDefault();
     consoleInit(NULL);
 
+
+     int usleep(useconds_t usec);
+
     //Move the cursor to row 16 and column 20 and then prints "Hello World!"
     //To move the cursor you have to print "\x1b[r;cH", where r and c are respectively
     //the row and column where you want your cursor to move
-    printf("febosheep SWITCH");
-    printf("version 0.5.0");
-    svcSleepThread(6000000);
-    printf("got UR FRI SWITH GAMES!!");
-    svcSleepThread(6000000);
-    printf("NOW installign FRII SWITCH CFW HAC");
-    svcSleepThread(6000000);
-    printf("NOW YOU GET SWITH UPDAT 5.0, FRII THEME!");
-    svcSleepThread(6000000);
-    printf("getong EVEYRORY NINTENDO GAM FRI");
-    svcSleepThread(6000000);
-    printf("installing miiberse");
-    svcSleepThread(6000000);
-    printf("inslteing fleshcart for swith");
-    svcSleepThread(6000000);
-    printf("very_nice!!! have god day");
-    svcSleepThread(6000000);
+    printf("febosheep SWITCH\n");
+    printf("version 0.5.1\n");
+    svcSleepThread(6000000000);
+    printf("got UR FRI SWITH GAMES!!\n");
+    svcSleepThread(6000000000);
+    printf("NOW installign FRII SWITCH CFW HAC\n");
+    svcSleepThread(6000000000);
+    printf("NOW YOU GET SWITH UPDAT 5.0, FRII THEME!\n");
+    svcSleepThread(6000000000);
+    printf("getong EVEYRORY NINTENDO GAM FRI\n");
+    svcSleepThread(6000000000);
+    printf("installing miiberse\n");
+    svcSleepThread(6000000000);
+    printf("inslteing fleshcart for swith\n");
+    svcSleepThread(6000000000);
+    printf("installe wonderswon gam\n");
+    svcSleepThread(6000000000);
+    printf("very_nice!!! have god day (pres + to exitE)\n");
+    svcSleepThread(6000000000);
 
     while(appletMainLoop())
     {
