@@ -10,10 +10,7 @@ int main(int argc, char **argv)
 
 
      int usleep(useconds_t usec);
-
-    //Move the cursor to row 16 and column 20 and then prints "Hello World!"
-    //To move the cursor you have to print "\x1b[r;cH", where r and c are respectively
-    //the row and column where you want your cursor to move
+    
     printf("febosheep SWITCH\n");
     printf("version 0.5.1\n");
     svcSleepThread(6000000000);
