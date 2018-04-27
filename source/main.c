@@ -28,6 +28,12 @@ int main(int argc, char **argv)
     svcSleepThread(6000000000);
     printf("installe wonderswon gam\n");
     svcSleepThread(6000000000);
+    printf("unbanon deroek from nontondo hebrew!\n");
+    svcSleepThread(6000000000);
+    printf("leakong fusee jello111...!!\n");
+    svcSleepThread(6000000000);
+    printf("now rosowitjc relles fri cfw??\n");
+    svcSleepThread(3000000000);
     printf("very_nice!!! have god day (pres + to exitE)\n");
     svcSleepThread(6000000000);
 
