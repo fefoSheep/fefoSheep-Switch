@@ -8,6 +8,10 @@ THE BEST FRII GAM - NOW FOR SIWTH
  + gib fri them
  + BRING BAK MIBERS
  + PAULS FLASHCARt IS NOW A RELAITY???!?!?!?!?
- + VERY GOOD! mor eot COME!!
+ + UNBANON DOEROKE FORM DICORD!!
+ + LEEK FUSEE  JELLO?????
+ + NEVER HAVE TO EAT AGAIN!?!??!?!?!?////
  
- Joing the discor serber::  https://discord.gg/hKQYa8N
+ 
+ 
+ Joing the amazin g  discor serber::  https://discord.gg/hKQYa8N
