@@ -22,6 +22,8 @@ int main(int argc, char **argv)
     svcSleepThread(6000000000);
     printf("getong EVEYRORY NINTENDO GAM FRI\n");
     svcSleepThread(6000000000);
+    printf("now get FRIIE   PEEC EEE GAMEMEMEM\n");
+    svcSleepThread(6000000000);
     printf("installing miiberse\n");
     svcSleepThread(6000000000);
     printf("inslteing fleshcart for swith\n");
