@@ -11,16 +11,16 @@ int main(int argc, char **argv)
 
      int usleep(useconds_t usec);
     
-    printf("febosheep SWITCH\n");
+    printf("febosheep sWoTCH\n");
     printf("version 0.5.1\n");
     svcSleepThread(6000000000);
     printf("got UR FRI SWITH GAMES!!\n");
     svcSleepThread(6000000000);
-    printf("NOW installign FRII SWITCH CFW HAC\n");
+    printf("NOW installign FRII SWISH CFW HAC\n");
     svcSleepThread(6000000000);
     printf("NOW YOU GET SWITH UPDAT 5.0, FRII THEME!\n");
     svcSleepThread(6000000000);
-    printf("getong EVEYRORY NINTENDO GAM FRI\n");
+    printf("getong EVEYRORY BINTENDER GAM FRI\n");
     svcSleepThread(6000000000);
     printf("now get FRIIE   PEEC EEE GAMEMEMEM\n");
     svcSleepThread(6000000000);
