@@ -154,7 +154,7 @@ int main(int argc, char **argv)
     svcSleepThread(5000000000);
     printf("Vamos a hacerlo en una playa en Puerto Rico\n");
     svcSleepThread(5000000000);
-    printf("Hasta que las olas griten "¡ay, bendito!"\n");
+    printf("Hasta que las olas griten ¡ay, bendito!\n");
     svcSleepThread(5000000000);
     printf("Para que mi sello se quede contigo\n");
     svcSleepThread(5000000000);
