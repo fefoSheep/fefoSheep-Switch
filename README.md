@@ -1,5 +1,5 @@
 # fefoSheep-Switch
-THE BEST FRII GAM - NOW FOR SIWTH
+THE BEST POKEGOM - NOW FOR SIWTH
 
 ![fefosheep](https://cdn.discordapp.com/attachments/341741717319581696/359360709269913601/fefosheep.png)
 
