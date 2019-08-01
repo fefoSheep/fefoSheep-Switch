@@ -3,7 +3,7 @@ THE BEST POKEGOM - NOW FOR SIWTH
 
 ![fefosheep](https://cdn.discordapp.com/attachments/341741717319581696/359360709269913601/fefosheep.png)
 
-# :))) givb fre gam very nic
+# :))) givb pokegom very nic
  + instal maney frio pokegom gameo
  + gib pokegomz
  + BRING BAK MIBERS
