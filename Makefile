@@ -35,6 +35,8 @@ SOURCES		:=	source
 DATA		:=	data
 INCLUDES	:=	include
 EXEFS_SRC	:=	exefs_src
+APP_AUTHOR      :=      Melsbacksfriend
+APP_TITLE       :=      Yet Another Fefosheep Mod
 
 #---------------------------------------------------------------------------------
 # options for code generation
