@@ -14,7 +14,7 @@ THE BEST POKEGOM - NOW FOR SIWTH
  
  
  
- Joing the amazin g  discor serber::  https://discord.gg/hKQYa8N
+ Joing the amazin g  discor serber::  https://discord.gg/nxrSSs9
 
 
 ctrlz:
