@@ -15,7 +15,6 @@ int main(int argc, char* argv[])
         //Scan all the inputs. This should be done once for each frame
 
     int A = 0;
-    int B = 0;
     int C = 0;
         hidScanInput();
 
@@ -42,50 +41,55 @@ int main(int argc, char* argv[])
     if (C == 7200)
 {
     cout << "bribing gam freck to\n";
-    cout << "#brinbaknashunaldechs\n";
+    cout << "pathc valted pokegomz intoo sord and sheld..\n";
 }
-    if (C == 9600) cout << "DOANLOAD AND INSTAL FRII LGPE NSP\n";
-    if (C == 10200)
+    if (C == 9600) cout << "DOANLOAD AND INSTAL FRII LGPE SWSH NSP\n";
+    if (C == 10200) cout << "instalnig sord and sheld nashunal dechs mod \nand unofishul transfur tol to lunch usin \naplicashun mod in hebrew lawnchair\nuntil th briberii cunvinsez gam freck to #BrinBakNashunalDechs..\n";
+    if (C == 10800)
 {
     cout << "now downloa and isntal xy\n";
     cout << "oras sm usum port for swithc\n";
 }
-    if (C == 10800)
+    if (C == 11400)
 {
     cout << "doanola and instal dpp hgss\n";
     cout << "bw b2w2 port for swotch\n";
 }
-    if (C == 11400) cout << "doanlaod and isntall rse frlg port for swith\n";
-    if (C == 13200) cout << "doanloa and instal gsc rby port for swoth\n";
+    if (C == 13200) cout << "doanlaod and isntall rse frlg port for swith\n";
+    if (C == 15000) cout << "doanloa and instal gsc rby port for swoth\n";
     if (C == 15000) cout << "jus mak sur u don kil ur pokegomz or u bric!!\n";
-    if (C == 16800) cout << "runing clongo exploit..\n";
-    if (C == 18600) cout << "dongrodi to 1.0.0\n";
-    if (C == 20400) cout << "pathcing flies of pokegomz..\n";
-    if (C == 22200) cout << "sicc now generat new systume imag..\n";
-    if (C == 23400) cout << "systume imag genrat nowa flash ontoo emptii brian\n";
-    if (C == 25200) cout << "doo sam ting with recuvurii and fei partishuns\n";
-    if (C == 26100) cout << "nowe update from dum atmosfer to raynx\n";
-    if (C == 27000) cout << "now u hav raynx becaus atmosfer succ 4-bite bik\n";
-    if (C == 27900) cout << "donola 2TB reshiram\n";
-    if (C == 28800) cout << "flash by-os form u..\n";
-    if (C == 29700) cout << "arguin in #meta abot rul 11..\n";
-    if (C == 30600) cout << "OH NO HECK U GOT FRIKKEN BAN BY MASUDA!!\n";
-    if (C == 31500) cout << "runin sube too mellzbaxfrend (ur such a hackers)\n";
-    if (C == 32400) cout << "u got aron ban my dud!!\n";
-    if (C == 33300) cout << "cunvirtin flies of pokegomz\n";
-    if (C == 34200) cout << "now imparti flies of pokegomz..\n";
-    if (C == 35100) cout << "gib u pokegomz in rel lif..\n";
+    if (C == 18600) cout << "runing clongo exploit..\n";
+    if (C == 20400) cout << "dongrodi to 1.0.0\n";
+    if (C == 22200) cout << "pathcing flies of pokegomz..\n";
+    if (C == 23400) cout << "sicc now generat new systume imag..\n";
+    if (C == 25200) cout << "systume imag genrat nowa flash ontoo emptii brian\n";
+    if (C == 26100) cout << "doo sam ting with recuvurii and fei partishuns\n";
+    if (C == 27000) cout << "nowe update from dum atmosfer to raynx\n";
+    if (C == 27900) cout << "now u hav raynx becaus atmosfer succ 4-bite bik\n";
+    if (C == 28800) cout << "donola 2TB reshiram\n";
+    if (C == 29700) cout << "flash by-os form u..\n";
+    if (C == 30600) cout << "arguin in #meta abot rul 11..\n";
+    if (C == 31500) cout << "OH NO HECK U GOT FRIKKEN BAN BY MASUDA!!\n";
+    if (C == 32400) cout << "runin sube too mellzbaxfrend (ur such a hackers)\n";
+    if (C == 33300) cout << "u got aron ban my dud!!\n";
+    if (C == 34200) cout << "cunvirtin flies of pokegomz\n";
+    if (C == 35100) cout << "now imparti flies of pokegomz..\n";
+    if (C == 36000) cout << "gib u pokegomz in rel lif..\n";
     consoleUpdate(NULL);
-    if (C > 35100)
+    if (C > 36000)
 {
     if (kDown & KEY_A) A++;
-    if (kDown & KEY_Y) A = A+5;
-    if (kDown & KEY_X) A = A+10;
-    if (kDown & KEY_L) A = A-1;
-    if (kDown & KEY_ZL) A = A-5;
-    if (kDown & KEY_R) A = A-10;
+    if (kDown & KEY_Y) A = A+10;
+    if (kDown & KEY_X) A = A+100;
+    if (kDown & KEY_L) A = 1;
+    if (kDown & KEY_ZL) A = 152;
+    if (kDown & KEY_R) A = 252;
     if (kDown & KEY_ZR) A = 0;
-    if (kDown & KEY_MINUS) A = 133;
+    if (kDown & KEY_MINUS) A = 387;
+    if (kDown & KEY_LEFT) A = 494;
+    if (kDown & KEY_RIGHT) A = 650;
+    if (kDown & KEY_DOWN) A = 722;
+    if (kDown & KEY_UP) A = 810;
     consoleUpdate(NULL);
     if (kDown & KEY_B) 
 
@@ -94,6 +98,7 @@ int main(int argc, char* argv[])
 
         //hidKeysDown returns information about which buttons have been just pressed (and they weren't in the previous frame)
         u32 kDown = hidKeysDown(CONTROLLER_P1_AUTO);
+		if (A < 0) A = 0;
                 if (A == 1) cout << "Nowe u hav a rel liv Bulbasaur!!!!!" << endl;
                 if (A == 2) cout << "Nowe u hav a rel liv Ivysaur!!!!!" << endl;
                 if (A == 3) cout << "Nowe u hav a rel liv Venusaur!!!!!" << endl;
@@ -903,7 +908,88 @@ int main(int argc, char* argv[])
                 if (A == 807) cout << "Nowe u hav a rel liv Zeraora!!!!!" << endl;
                 if (A == 808) cout << "Nowe u hav a rel liv Meltan!!!!!" << endl;
                 if (A == 809) cout << "Nowe u hav a rel liv Melmetal!!!!!" << endl;
-                if (A > 809) A = 0;
+                if (A == 810) cout << "Nowe u hav a rel liv Grookey!!!!!" << endl;
+                if (A == 811) cout << "Nowe u hav a rel liv Thwackey!!!!!" << endl;
+                if (A == 812) cout << "Nowe u hav a rel liv Rillaboom!!!!!" << endl;
+                if (A == 813) cout << "Nowe u hav a rel liv Scorbunny!!!!!" << endl;
+                if (A == 814) cout << "Nowe u hav a rel liv Raboot!!!!!" << endl;
+                if (A == 815) cout << "Nowe u hav a rel liv Cinderace!!!!!" << endl;
+                if (A == 816) cout << "Nowe u hav a rel liv Sobble!!!!!" << endl;
+                if (A == 817) cout << "Nowe u hav a rel liv Drizzile!!!!!" << endl;
+                if (A == 818) cout << "Nowe u hav a rel liv Inteleon!!!!!" << endl;
+                if (A == 819) cout << "Nowe u hav a rel liv Skwovet!!!!!" << endl;
+                if (A == 820) cout << "Nowe u hav a rel liv Greedent!!!!!" << endl;
+                if (A == 821) cout << "Nowe u hav a rel liv Rookidee!!!!!" << endl;
+                if (A == 822) cout << "Nowe u hav a rel liv Corvisquire!!!!!" << endl;
+                if (A == 823) cout << "Nowe u hav a rel liv Corviknight!!!!!" << endl;
+                if (A == 824) cout << "Nowe u hav a rel liv Blipbug!!!!!" << endl;
+                if (A == 825) cout << "Nowe u hav a rel liv Dottler!!!!!" << endl;
+                if (A == 826) cout << "Nowe u hav a rel liv Orbeetle!!!!!" << endl;
+                if (A == 827) cout << "Nowe u hav a rel liv Nickit!!!!!" << endl;
+                if (A == 828) cout << "Nowe u hav a rel liv Thievul!!!!!" << endl;
+                if (A == 829) cout << "Nowe u hav a rel liv Gossifleur!!!!!" << endl;
+                if (A == 830) cout << "Nowe u hav a rel liv Eldegoss!!!!!" << endl;
+                if (A == 831) cout << "Nowe u hav a rel liv Wooloo!!!!!" << endl;
+                if (A == 832) cout << "Nowe u hav a rel liv Dubwool!!!!!" << endl;
+                if (A == 833) cout << "Nowe u hav a rel liv Chewtle!!!!!" << endl;
+                if (A == 834) cout << "Nowe u hav a rel liv Drednaw!!!!!" << endl;
+                if (A == 835) cout << "Nowe u hav a rel liv Yamper!!!!!" << endl;
+                if (A == 836) cout << "Nowe u hav a rel liv Boltund!!!!!" << endl;
+                if (A == 837) cout << "Nowe u hav a rel liv Rolycoly!!!!!" << endl;
+                if (A == 838) cout << "Nowe u hav a rel liv Carkol!!!!!" << endl;
+                if (A == 839) cout << "Nowe u hav a rel liv Coalossal!!!!!" << endl;
+                if (A == 840) cout << "Nowe u hav a rel liv Applin!!!!!" << endl;
+                if (A == 841) cout << "Nowe u hav a rel liv Flapple!!!!!" << endl;
+                if (A == 842) cout << "Nowe u hav a rel liv Appletun!!!!!" << endl;
+                if (A == 843) cout << "Nowe u hav a rel liv Silicobra!!!!!" << endl;
+                if (A == 844) cout << "Nowe u hav a rel liv Sandaconda!!!!!" << endl;
+                if (A == 845) cout << "Nowe u hav a rel liv Cramorant!!!!!" << endl;
+                if (A == 846) cout << "Nowe u hav a rel liv Arrokuda!!!!!" << endl;
+                if (A == 847) cout << "Nowe u hav a rel liv Barraskewda!!!!!" << endl;
+                if (A == 848) cout << "Nowe u hav a rel liv Toxel!!!!!" << endl;
+                if (A == 849) cout << "Nowe u hav a rel liv Toxtricity!!!!!" << endl;
+                if (A == 850) cout << "Nowe u hav a rel liv Sizzlipede!!!!!" << endl;
+                if (A == 851) cout << "Nowe u hav a rel liv Centiskorch!!!!!" << endl;
+                if (A == 852) cout << "Nowe u hav a rel liv Clobbopus!!!!!" << endl;
+                if (A == 853) cout << "Nowe u hav a rel liv Grapploct!!!!!" << endl;
+                if (A == 854) cout << "Nowe u hav a rel liv Sinistea!!!!!" << endl;
+                if (A == 855) cout << "Nowe u hav a rel liv Polteageist!!!!!" << endl;
+                if (A == 856) cout << "Nowe u hav a rel liv Hatenna!!!!!" << endl;
+                if (A == 857) cout << "Nowe u hav a rel liv Hattrem!!!!!" << endl;
+                if (A == 858) cout << "Nowe u hav a rel liv Hatterene!!!!!" << endl;
+                if (A == 859) cout << "Nowe u hav a rel liv Impidimp!!!!!" << endl;
+                if (A == 860) cout << "Nowe u hav a rel liv Morgrem!!!!!" << endl;
+                if (A == 861) cout << "Nowe u hav a rel liv Grimmsnarl!!!!!" << endl;
+                if (A == 862) cout << "Nowe u hav a rel liv Obstagoon!!!!!" << endl;
+                if (A == 863) cout << "Nowe u hav a rel liv Perrserker!!!!!" << endl;
+                if (A == 864) cout << "Nowe u hav a rel liv Cursola!!!!!" << endl;
+                if (A == 865) cout << "Nowe u hav a rel liv Sirfetch'd!!!!!" << endl;
+                if (A == 866) cout << "Nowe u hav a rel liv Mr. Rime!!!!!" << endl;
+                if (A == 867) cout << "Nowe u hav a rel liv Runerigus!!!!!" << endl;
+                if (A == 868) cout << "Nowe u hav a rel liv Milcery!!!!!" << endl;
+                if (A == 869) cout << "Nowe u hav a rel liv Alcremie!!!!!" << endl;
+                if (A == 870) cout << "Nowe u hav a rel liv Falinks!!!!!" << endl;
+                if (A == 871) cout << "Nowe u hav a rel liv Pincurchin!!!!!" << endl;
+                if (A == 872) cout << "Nowe u hav a rel liv Snom!!!!!" << endl;
+                if (A == 873) cout << "Nowe u hav a rel liv Frosmoth!!!!!" << endl;
+                if (A == 874) cout << "Nowe u hav a rel liv Stonjourner!!!!!" << endl;
+                if (A == 875) cout << "Nowe u hav a rel liv Eiscue!!!!!" << endl;
+                if (A == 876) cout << "Nowe u hav a rel liv Indeedee!!!!!" << endl;
+                if (A == 877) cout << "Nowe u hav a rel liv Morpeko!!!!!" << endl;
+                if (A == 878) cout << "Nowe u hav a rel liv Cufant!!!!!" << endl;
+                if (A == 879) cout << "Nowe u hav a rel liv Copperajah!!!!!" << endl;
+                if (A == 880) cout << "Nowe u hav a rel liv Dracozolt!!!!!" << endl;
+                if (A == 881) cout << "Nowe u hav a rel liv Arctozolt!!!!!" << endl;
+                if (A == 882) cout << "Nowe u hav a rel liv Dracovish!!!!!" << endl;
+                if (A == 883) cout << "Nowe u hav a rel liv Arctovish!!!!!" << endl;
+                if (A == 884) cout << "Nowe u hav a rel liv Duraludon!!!!!" << endl;
+                if (A == 885) cout << "Nowe u hav a rel liv Dreepy!!!!!" << endl;
+                if (A == 886) cout << "Nowe u hav a rel liv Drakloak!!!!!" << endl;
+                if (A == 887) cout << "Nowe u hav a rel liv Dragapult!!!!!" << endl;
+                if (A == 888) cout << "Nowe u hav a rel liv Zacian!!!!!" << endl;
+                if (A == 889) cout << "Nowe u hav a rel liv Zamazenta!!!!!" << endl;
+                if (A == 890) cout << "Nowe u hav a rel liv Eternatus!!!!!" << endl;
+                if (A > 890) A = 0;
                 consoleUpdate(NULL);
 }
 
@@ -918,7 +1004,6 @@ int main(int argc, char* argv[])
 
 }
     consoleExit(NULL);
-    gfxExit();
     return 0;
 }
 
