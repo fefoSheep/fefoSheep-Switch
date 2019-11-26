@@ -20,6 +20,10 @@ THE BEST POKEGOM - NOW FOR SIWTH
 
 Porto in SUPORTO maeks mii tink "Ignor th Spanis Subtitlz."  
 
+9.0.X SUPORTO IZ HER!!!!!!!!!!
+
+Su in SUPORTO maks mii tink "U R A Pirit."  
+
 ctrlz:
 pres a 2 increes nashunal dechs numbur of imparted pokegom bi 1
 pres b 2 git select'd pokegom
