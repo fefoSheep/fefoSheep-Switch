@@ -71,12 +71,13 @@ int main(int argc, char* argv[])
     if (C == 30600) cout << "arguin in #meta abot rul 11..\n";
     if (C == 31500) cout << "OH NO HECK U GOT FRIKKEN BAN BY MASUDA!!\n";
     if (C == 32400) cout << "runin sube too mellzbaxfrend (ur such a hackers)\n";
-    if (C == 33300) cout << "u got aron ban my dud!!\n";
-    if (C == 34200) cout << "cunvirtin flies of pokegomz\n";
-    if (C == 35100) cout << "now imparti flies of pokegomz..\n";
-    if (C == 36000) cout << "gib u pokegomz in rel lif..\n";
+	if (C == 33300) cout << "nowe it tim for unb&ds for swotch!!!11\n";
+    if (C == 34200) cout << "u got aron ban my dud!!\n";
+    if (C == 35100) cout << "cunvirtin flies of pokegomz\n";
+    if (C == 36000) cout << "now imparti flies of pokegomz..\n";
+    if (C == 36900) cout << "gib u pokegomz in rel lif..\n";
     consoleUpdate(NULL);
-    if (C > 36000)
+    if (C > 36900)
 {
     if (kDown & KEY_A) A++;
     if (kDown & KEY_Y) A = A+10;
